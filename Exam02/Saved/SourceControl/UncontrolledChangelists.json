@@ -1,0 +1,24 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/CharacterBP/WizardSM_BP.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/CharacterBP/NewBlueprint.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/CharacterBP/perso.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/Input/IMC_Default.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/CharacterBP/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/CharacterBP/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Input/Actions/IA_Move.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Input/Actions/IA_Look.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/BattleWizardPolyart/ThirdPerson/Blueprints/BP_ThirdPersonGameMode.uasset",
+				"C:/Users/GAME2/Downloads/Exam02/Content/Maps/Main_Map.umap"
+			]
+		}
+	]
+}
